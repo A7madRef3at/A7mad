@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:1 tvg-ID=beINSportsHD1.mena tvg-name=beINSports HD 1 tvg-logo=https://aflam4you.tv/uploads/thumbs/117-1.jpg group-title="mena",mena: Channel
+#EXTINF:-1, tvg-ID=beINSportsHD1.mena tvg-name=beINSports HD 1 tvg-logo=https://aflam4you.tv/uploads/thumbs/117-1.jpg group-title="BeIN",mena: Channel
 https://aflam4you.tv/beinsports-livetv_117.html
