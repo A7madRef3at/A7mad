@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1, beINSports HD1
-https://aflam4you.tv/beinsports-livetv_117.html
+#EXTINF:-1 tvg-ID="EPG-CODE" tvg-name="CHANNELNAME" tvg-logo="LOGO-URL" group-title="Italia",IT: Channel
+http://test/live/123.ts
